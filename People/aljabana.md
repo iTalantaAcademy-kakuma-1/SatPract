@@ -21,4 +21,6 @@ studies.
 
 ---
 
-- [ ] that is the real .
+- [ ] that is the real me
+
+- [ ] myself
